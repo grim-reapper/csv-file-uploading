@@ -24,7 +24,7 @@ This is a Laravel-based CSV file processing application that provides robust fil
 ## Video Demonstration
 Check out the video demonstration of the application in action:
 [Watch Demo Video](recording.mp4)
-
+<video src='recording.mp4' width=1000/>
 ## How to use
 - Clone the repository with git clone
 - Copy .env.example file to .env and edit database credentials there
